@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Get started (Bootcamp)</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
@@ -119,3 +119,13 @@ function App() {
 }
 
 export default App
+
+/*
+git command
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kittasilGitHub/git-bootcamp-workshop.git
+git push -u origin main
+*/
