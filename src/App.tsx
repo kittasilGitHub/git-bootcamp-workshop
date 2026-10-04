@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <section id="center" style={{ backgroundColor: 'pink' }}>
+      <section id="center" style={{ backgroundColor: 'red' }}>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
@@ -37,7 +37,7 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
-          <p>Your questions, answered</p>
+          <p>Dowload Docs at www.kitcoding.com</p>
           <ul>
             <li>
               <a href="https://vite.dev/" target="_blank">
